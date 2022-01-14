@@ -1,4 +1,3 @@
-[
   {
     "name": "Kitty",
     "species" : "cat",
@@ -26,4 +25,4 @@
       "dislikes": ["basic cat food"]
     }
   }
-]
+
